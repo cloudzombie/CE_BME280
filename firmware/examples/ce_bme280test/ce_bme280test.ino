@@ -1,3 +1,6 @@
+// This #include statement was automatically added by the Particle IDE.
+#include "CE_BME280.h"
+
 /***************************************************************************
   This is a library for the BME280 humidity, temperature & pressure sensor
   from https://www.controleverything.com
