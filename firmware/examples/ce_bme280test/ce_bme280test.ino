@@ -19,11 +19,6 @@
   in order to work with Particle Photon & Core.
  ***************************************************************************/
 
-#define BME_SCK D4
-#define BME_MISO D3
-#define BME_MOSI D2
-#define BME_CS D5
-
 #define SEALEVELPRESSURE_HPA (1013.25)
 
 CE_BME280 bme; // I2C
