@@ -1,6 +1,3 @@
-// This #include statement was automatically added by the Particle IDE.
-#include "CE_BME280.h"
-
 /***************************************************************************
   This is a library for the BME280 humidity, temperature & pressure sensor
   from https://www.controleverything.com
@@ -21,6 +18,8 @@
   This file was modified by Thomas Rockenbauer (https://github.com/hl68fx)
   in order to work with Particle Photon & Core.
  ***************************************************************************/
+ 
+#include "CE_BME280/CE_BME280.h"
 
 #define SEALEVELPRESSURE_HPA (1013.25)
 
