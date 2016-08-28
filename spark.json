@@ -1,7 +1,7 @@
 {
-    "name": "CE_BME280",
-    "version": "1.0.1",
+    "name": "PDX_BME280",
+    "version": "1.0.3",
     "author": "Adafruit <info@adafruit.com>, Thomas Rockenbauer (https://github.com/hl68fx)",
     "license": "BSD license",
-    "description": "Control Everything BME280 Library"
+    "description": "TheraPDX Photon OSHI"
 }
